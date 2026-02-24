@@ -1,8 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <a:script xmlns:a="http://www.w3.org/1999/xhtml">alert(origin)</a:script>
-<note>
-  <to>Tove</to>
-  <from>Jani</from>
-  <heading>Reminder</heading>
-  <body>Don't forget me this weekend!</body>
-</note>
